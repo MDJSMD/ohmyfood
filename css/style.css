@@ -63,8 +63,7 @@ body {
 
 #logo-ohmyfood {
     margin: auto;
-    margin-top: 30px;
-    padding-left: 40px;
+    margin-top: 16px;
     height: 43px;
 }
  
@@ -582,10 +581,10 @@ footer a {
 }
 
 .arrow {
-    margin-top: 26px;
+    margin-top: 20px;
     font-size: 26px;
     position: absolute;
-    left: 40px;
+    left: 18px;
     display: block;
     text-decoration: none;
     color: black;
